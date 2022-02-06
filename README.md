@@ -3,7 +3,7 @@
 This is the project that is in the Angular Documentation. I completed it to learn about Angular frameworks. It is given as a task as a part of my Industrial Attachment at Selise Digital Platforms. 
 
 
----
+
 ## Running the project
 <br>
 
